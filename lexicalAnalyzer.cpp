@@ -1,5 +1,5 @@
 //lexical Analyzer for java
-//authors@ Vaibhav & Dvyanshi
+//authors@ Vaibhav & Divyanshi
 
 #include<stdio.h>
 #include<string.h>
